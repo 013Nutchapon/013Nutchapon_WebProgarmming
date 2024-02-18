@@ -95,5 +95,20 @@
 .card-hover:hover{
   background-color: rgb(234, 99, 162);
 }
+@media (max-width: 576px) {
+  .pboss{
+    height: auto;
+  }
+  }
+  @media (max-width: 1400px) {
+  .pboss{
+    height: 500px;
+  }
+  }
+  @media (max-width: 1189px) {
+  .pboss{
+    height: auto;
+  }
+  }
 
   
