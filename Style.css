@@ -1,0 +1,99 @@
+/* Navbar */
+.background{
+  background-color: #254B62;
+}
+.navbar {
+  background-color: #070707; /* เปลี่ยนสีพื้นหลังของ Navbar */
+}
+
+.navbar-brand {
+  color: #ffffff; /* เปลี่ยนสีข้อความของ Navbar Brand */
+}
+
+.navbar-nav .nav-link {
+  color: #ffffff; /* เปลี่ยนสีข้อความของ Navbar Link */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f8f9fa; /* เปลี่ยนสีข้อความของ Navbar Link เมื่อ Hover */
+}
+
+/* Sections */
+.container {
+  padding-top: 50px; /* เพิ่มระยะห่างด้านบนของ Container */
+}
+
+.name {
+  color: #f9fafc; /* เปลี่ยนสีข้อความชื่อ */
+}
+
+.number {
+  color: #f8f8f9; /* เปลี่ยนสีข้อความหมายเลข */
+}
+
+.content {
+  color: #fafbfc; /* เปลี่ยนสีข้อความเนื้อหา */
+}
+.content1{
+  color: #f8f8f9;
+}
+
+/* About Me */
+.bg-pink-gradient {
+  background: linear-gradient(to Top, #ff84d8, #254B62); /* เปลี่ยนสีพื้นหลังของเซ็คชัน "About Me" */
+  color: white;
+}
+/* Works */
+.psp {
+  color: #343a40; /* เปลี่ยนสีข้อความเนื้อหา "Works" */
+}
+
+.psp1 {
+  color: #6c757d; /* เปลี่ยนสีข้อความเนื้อหา "Works" */
+}
+
+/* Contact */
+.ab {
+  color: #343a40; /* เปลี่ยนสีข้อความหัวเรื่อง "Contact" */
+}
+
+.psp {
+  color: #343a40; /* เปลี่ยนสีข้อความเนื้อหา "Contact" */
+}
+
+/* Footer */
+.psu2 {
+  background-color: #343a40; /* เปลี่ยนสีพื้นหลังของ Footer */
+}
+
+.psu {
+  color: #ffffff; /* เปลี่ยนสีข้อความ "Prince of Songkla University" */
+}
+
+/* Social Media Icons */
+.img2 {
+  width: 60px; /* ปรับขนาดไอคอนโซเชียลมีเดีย */
+  height: 60px; /* ปรับขนาดไอคอนโซเชียลมีเดีย */
+}
+
+.hd {
+  color: #343a40; /* เปลี่ยนสีข้อความหัวเรื่อง "Social Media" */
+}
+
+.aa {
+  color: #343a40; /* เปลี่ยนสีข้อความลิงก์ "Social Media" */
+}
+
+.aa:hover {
+  color: #ff79cd; /* เปลี่ยนสีข้อความลิงก์ "Social Media" เมื่อ Hover */
+}
+
+.nav-link:hover{
+  color: #ff79cd !important;
+}
+
+.card-hover:hover{
+  background-color: rgb(234, 99, 162);
+}
+
+  
